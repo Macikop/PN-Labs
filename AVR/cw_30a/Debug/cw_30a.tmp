@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\Debug/cw_30a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_30a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_30a.map</FILE>
+  <FILE>cw_30a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</FILE><LINE>22</LINE></MainLoop>
+  <DelayInMs><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</FILE><LINE>43</LINE></DelayInMs>
+  <LoopDelayInMs><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</FILE><LINE>48</LINE></LoopDelayInMs>
+  <DelayOneMs><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</FILE><LINE>57</LINE></DelayOneMs>
+  <LoopDelayOneMs><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_30a\main.asm</FILE><LINE>61</LINE></LoopDelayOneMs>
+ </LABELS>
+</ASSEMBLER_INFO>
