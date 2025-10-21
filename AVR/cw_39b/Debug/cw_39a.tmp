@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\Debug/cw_39a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_39a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_39a.map</FILE>
+  <FILE>cw_39a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>34</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>91</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>66</LINE></DelayInMs>
+  <LoopDelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>71</LINE></LoopDelayInMs>
+  <DelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>80</LINE></DelayOneMs>
+  <LoopDelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>84</LINE></LoopDelayOneMs>
+  <Table7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_39a\main.asm</FILE><LINE>112</LINE></Table7segCode>
+ </LABELS>
+</ASSEMBLER_INFO>

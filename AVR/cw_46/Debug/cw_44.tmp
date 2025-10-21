@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\Debug/cw_44.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_44.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_44.map</FILE>
+  <FILE>cw_44.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>44</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>123</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>98</LINE></DelayInMs>
+  <L1><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>65</LINE></L1>
+  <NumberToDigits><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>191</LINE></NumberToDigits>
+  <LoopDelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>103</LINE></LoopDelayInMs>
+  <DelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>112</LINE></DelayOneMs>
+  <LoopDelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>116</LINE></LoopDelayOneMs>
+  <Table7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>142</LINE></Table7segCode>
+  <Divide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>161</LINE></Divide>
+  <Divide_Loop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>166</LINE></Divide_Loop>
+  <Exit_Divide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_44\main.asm</FILE><LINE>174</LINE></Exit_Divide>
+ </LABELS>
+</ASSEMBLER_INFO>

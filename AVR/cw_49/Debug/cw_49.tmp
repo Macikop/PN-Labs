@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\Debug/cw_49.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_49.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_49.map</FILE>
+  <FILE>cw_49.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>87</LINE></_main>
+  <_timer_isr><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>35</LINE></_timer_isr>
+  <_externar_isr><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>71</LINE></_externar_isr>
+  <NumberToDigits><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>240</LINE></NumberToDigits>
+  <NoOverflow><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>80</LINE></NoOverflow>
+  <MainLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>139</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>172</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>148</LINE></DelayInMs>
+  <LoopDelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>153</LINE></LoopDelayInMs>
+  <DelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>161</LINE></DelayOneMs>
+  <LoopDelayOneMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>165</LINE></LoopDelayOneMs>
+  <Table7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>191</LINE></Table7segCode>
+  <Divide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>210</LINE></Divide>
+  <Divide_Loop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>215</LINE></Divide_Loop>
+  <Exit_Divide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_49\main.asm</FILE><LINE>223</LINE></Exit_Divide>
+ </LABELS>
+</ASSEMBLER_INFO>

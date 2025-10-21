@@ -1,17 +1,17 @@
 <ASSEMBLER_INFO>
  <VERSION>2.1.57</VERSION>
  <DEVICE>"ATtiny2313A"</DEVICE>
- <WORKING_DIR>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\Debug</WORKING_DIR>
+ <WORKING_DIR>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\Debug/cw_22.obj</FILE>
+  <FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\Debug/cw_22.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>cw_22.hex</FILE>
@@ -21,9 +21,9 @@
   <FILE>cw_22.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <MainLoop><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>1</LINE></MainLoop>
-  <DelayInMs><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>6</LINE></DelayInMs>
-  <Loop_ms><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>7</LINE></Loop_ms>
-  <Loop><FILE>C:\Users\Maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>10</LINE></Loop>
+  <MainLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>1</LINE></MainLoop>
+  <DelayInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>6</LINE></DelayInMs>
+  <Loop_ms><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>7</LINE></Loop_ms>
+  <Loop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR\cw_22\main.asm</FILE><LINE>10</LINE></Loop>
  </LABELS>
 </ASSEMBLER_INFO>
