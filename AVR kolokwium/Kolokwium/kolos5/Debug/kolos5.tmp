@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\Debug/kolos5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>kolos5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>kolos5.map</FILE>
+  <FILE>kolos5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>99</LINE></_main>
+  <_Timer_ISR><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>69</LINE></_Timer_ISR>
+  <_ExtInt_ISR><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>54</LINE></_ExtInt_ISR>
+  <NoOverflow><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>62</LINE></NoOverflow>
+  <_NumberToDigits><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>170</LINE></_NumberToDigits>
+  <MainLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>149</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>263</LINE></DigitTo7segCode>
+  <DealyInMs><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>282</LINE></DealyInMs>
+  <_Divide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>231</LINE></_Divide>
+  <DivideLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>237</LINE></DivideLoop>
+  <ExitDivide><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>249</LINE></ExitDivide>
+  <Table><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>261</LINE></Table>
+  <DelayLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>288</LINE></DelayLoop>
+  <OneMsLoop><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>299</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\maciej\Desktop\studia\PN-Labs\AVR kolokwium\Kolokwium\kolos5\main.asm</FILE><LINE>305</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
