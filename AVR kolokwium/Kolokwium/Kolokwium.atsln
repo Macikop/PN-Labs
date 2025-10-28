@@ -13,6 +13,8 @@ Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "kolos5", "kolos5\kolos5.asm
 EndProject
 Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "kolos6", "kolos6\kolos6.asmproj", "{B6511B5C-08A9-49C0-9097-3C8435C54331}"
 EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "kolos7", "kolos7\kolos7.asmproj", "{FE74EB01-83F3-4D98-A17B-4C9BC8E8EBCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -43,6 +45,10 @@ Global
 		{B6511B5C-08A9-49C0-9097-3C8435C54331}.Debug|AVR.Build.0 = Debug|AVR
 		{B6511B5C-08A9-49C0-9097-3C8435C54331}.Release|AVR.ActiveCfg = Release|AVR
 		{B6511B5C-08A9-49C0-9097-3C8435C54331}.Release|AVR.Build.0 = Release|AVR
+		{FE74EB01-83F3-4D98-A17B-4C9BC8E8EBCD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FE74EB01-83F3-4D98-A17B-4C9BC8E8EBCD}.Debug|AVR.Build.0 = Debug|AVR
+		{FE74EB01-83F3-4D98-A17B-4C9BC8E8EBCD}.Release|AVR.ActiveCfg = Release|AVR
+		{FE74EB01-83F3-4D98-A17B-4C9BC8E8EBCD}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
